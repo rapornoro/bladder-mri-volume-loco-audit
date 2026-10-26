@@ -1,0 +1,5 @@
+center,arm,inner_auc
+1,B_radiomics_vol,0.7930303030303031
+2,B_radiomics_vol,0.8258483033932136
+3,B_radiomics_vol,0.8813352826510721
+4,D_dino_vol,0.844391244870041

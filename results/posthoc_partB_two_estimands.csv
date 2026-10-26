@@ -1,0 +1,13 @@
+model,estimand,design,inflation_vs_loco,lo,hi,mean_auc
+Volume (logistic),pooled out-of-fold predictions (same lesions),lesion_cv,0.0113931888544892,0.0014215597835002,0.0222860694860694,
+Volume (logistic),pooled out-of-fold predictions (same lesions),patient_cv,0.0038390092879256,-0.0076278086992371,0.0153464234154708,
+2D ResNet-18,pooled out-of-fold predictions (same lesions),lesion_cv,0.0369659442724457,-0.0015946531184585,0.0776859468295563,
+2D ResNet-18,pooled out-of-fold predictions (same lesions),patient_cv,0.036470588235294,0.0036683715101708,0.0691837060201649,
+3D ResNet-18,pooled out-of-fold predictions (same lesions),lesion_cv,0.0318885448916408,-0.0287385883054764,0.0934437529045222,
+3D ResNet-18,pooled out-of-fold predictions (same lesions),patient_cv,0.0005882352941177,-0.0645845920328869,0.0628793741344106,
+Volume (logistic),mean per-test-set AUC,size-matched center-mixed,0.0484757482161388,-0.04393401704873978,0.1581269148509019,
+Volume (logistic),mean per-test-set AUC,case-mix-matched center-mixed,0.022469903803538416,-0.05755935965890202,0.0857352260799028,0.8226763222859699
+2D ResNet-18,mean per-test-set AUC,size-matched center-mixed,0.0323335317033618,-0.08461343629350226,0.14204426979968787,
+2D ResNet-18,mean per-test-set AUC,case-mix-matched center-mixed,0.02602415418695403,-0.10225887329377781,0.0935594213148393,0.813146551053933
+3D ResNet-18,mean per-test-set AUC,size-matched center-mixed,0.0273939036661194,-0.0537037197703929,0.13558839492494756,
+3D ResNet-18,mean per-test-set AUC,case-mix-matched center-mixed,0.036941672010563864,-0.03992903426895211,0.20205664889320152,0.7555199437522829
