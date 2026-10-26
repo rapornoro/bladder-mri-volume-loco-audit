@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 import nibabel as nib
 
-ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUT = os.path.join(ROOT, "study", "work")
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+OUT = os.path.join(ROOT, "work")
 os.makedirs(OUT, exist_ok=True)
 
 rows = []

@@ -4,7 +4,8 @@ Reproducible analysis code for a leave-one-center-out (LOCO) audit of T2-weighte
 radiomics and deep-learning models for muscle-invasive bladder cancer (MIBC), with an
 evaluation-design (data-leakage / case-mix) audit.
 
-This repository is released **anonymously** to support double-blind peer review.
+Author-identifying details have been removed from the release files and commit metadata.
+The hosting GitHub account remains visible; this is not a guarantee of account-level anonymity.
 
 ## What is here
 
